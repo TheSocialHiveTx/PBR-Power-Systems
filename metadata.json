@@ -1,0 +1,7 @@
+{
+  "name": "PBR Power Infrastructure - Elite Backup Solutions",
+  "description": "The premier Generac installer for the Gulf Coast. High-performance standby generator systems designed for absolute security and home resilience in Anahuac, TX.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
